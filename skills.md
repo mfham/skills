@@ -18,6 +18,7 @@
   - [ ] Bundler
   - [ ] Ruby on Rails
   - [ ] Library
+    - [ ] Faraday
 - [ ] NGINX
 - [ ] Apache
 - [ ] Linux
